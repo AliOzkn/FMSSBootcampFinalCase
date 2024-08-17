@@ -1,0 +1,9 @@
+{
+  "appium:platformName": "Android",
+  "appium:udid": "emulator-5554",
+  "appium:deviceName": "Emulator",
+  "appium:platformVersion": "12.0.0",
+  "appium:automationName": "UIAutomator2",
+  "fullReset": "true",
+  "noReset": "false"
+}

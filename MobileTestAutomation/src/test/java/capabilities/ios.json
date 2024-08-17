@@ -1,0 +1,9 @@
+{
+  "appium:platformName": "iOS",
+  "appium:udid": "emulator-5554",
+  "appium:deviceName": "iPhone 12",
+  "appium:platformVersion": "16.0.0",
+  "appium:automationName": "XCUITest",
+  "fullReset": "true",
+  "noReset": "false"
+}
