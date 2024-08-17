@@ -14,4 +14,5 @@
 - [CI-CD-Pipeline](https://drive.google.com/file/d/1HwtOGwmCE1KLJ2u0LfnTkHuziqxFaMzu/view?usp=sharing)
   
 <br>
-<b>Google Sheet dosyasına ulaşamama ihtimaline karşı [BA-Images](https://github.com/AliOzkn/FMSSBootcampFinalCase/tree/main/BusinessAnalyst/BA-Images) klasöründe, yapılan tüm işlemlerin görselleri sunulmuştur. </b>
+
+<b>Google Sheet dosyasına erişim sağlayamama ihtimaline karşı [BA-Images](https://github.com/AliOzkn/FMSSBootcampFinalCase/tree/main/BusinessAnalyst/BA-Images) klasöründe, yapılan tüm işlemlerin görselleri sunulmuştur.</b>
