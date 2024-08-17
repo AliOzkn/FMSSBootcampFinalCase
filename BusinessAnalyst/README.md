@@ -1,7 +1,3 @@
-<br>
-<br>
-<br>
-<br>
 
 <b>Programın Business Analyst kısmında takım olarak yaptığımız tüm çalışmaya aşağıdaki Google Sheet dosyasından ulaşabilirsiniz.</b> <br><br>
 - [Business Analyst Google Sheet Documentation](https://docs.google.com/spreadsheets/d/17TtlctgABjp5MfxRiA-k5OPA_wVDM5_3223XVGh0ex0/edit?usp=sharing)

@@ -1,11 +1,5 @@
 
 
-<br>
-<br>
-<br>
-<br>
-<br>
-
 ### Mobile Test Automation ve Business Analyst modüllerinin içerisindeki README.md dosyalarında gerekli açıklamalar yapılmıştır. Lütfen aşağıdaki linklerden ilgili dosyalara gidiniz.
 <br>
 
