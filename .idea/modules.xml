@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/BusinessAnalyst/BusinessAnalyst.iml" filepath="$PROJECT_DIR$/BusinessAnalyst/BusinessAnalyst.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/FMSSBootcampFinalCase.iml" filepath="$PROJECT_DIR$/.idea/FMSSBootcampFinalCase.iml" />
     </modules>
   </component>
