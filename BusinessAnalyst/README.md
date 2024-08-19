@@ -68,10 +68,10 @@ To view the related images, please click on the links below the title.
 
 - <h4>Security Alternatives</h4>
 
-    - [Security Approaches - 1](https://github.com/AliOzkn/FMSSBootcampFinalCase/blob/main/BusinessAnalyst/BA-Images/KVKK/KVKK-1.png)
-    - [Security Approaches - 2](https://github.com/AliOzkn/FMSSBootcampFinalCase/blob/main/BusinessAnalyst/BA-Images/KVKK/KVKK-2.png)
-    - [Security Approaches - 3](https://github.com/AliOzkn/FMSSBootcampFinalCase/blob/main/BusinessAnalyst/BA-Images/KVKK/KVKK-3.png)
-    - [Security Approaches - 4](https://github.com/AliOzkn/FMSSBootcampFinalCase/blob/main/BusinessAnalyst/BA-Images/KVKK/KVKK-4.png)
+    - [Security Approaches - 1](https://github.com/AliOzkn/FMSSBootcampFinalCase/blob/main/BusinessAnalyst/BA-Images/Security/KVKK-1.png)
+    - [Security Approaches - 2](https://github.com/AliOzkn/FMSSBootcampFinalCase/blob/main/BusinessAnalyst/BA-Images/Security/KVKK-2.png)
+    - [Security Approaches - 3](https://github.com/AliOzkn/FMSSBootcampFinalCase/blob/main/BusinessAnalyst/BA-Images/Security/KVKK-3.png)
+    - [Security Approaches - 4](https://github.com/AliOzkn/FMSSBootcampFinalCase/blob/main/BusinessAnalyst/BA-Images/Security/KVKK-4.png)
 
 - <h4>Data Mining & SQL Using</h4>
 
